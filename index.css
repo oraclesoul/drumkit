@@ -1,0 +1,48 @@
+body{
+    background-image: linear-gradient(red,brown,red);
+    color: wheat;
+}
+h1{ 
+    padding-top: 50px;
+    font-size: 6rem;
+    margin: auto;
+    width: 555px;
+}
+
+.button-div{
+    
+     width: max-content;
+     margin: auto;
+     margin-top: 100px;
+}
+
+button{
+    border-radius: 50px;
+    width: 200px;
+    height: 200px;
+    font-size: 5rem;
+    margin:2px;
+    color: orange;
+}
+
+.a{
+    background-image: url("images/crash.png");
+}
+.s{
+    background-image: url("images/kick.png");
+}
+.d{
+    background-image: url("images/snare.png");
+}
+.f{
+    background-image: url("images/tom1.png");
+}
+.g{
+    background-image: url("images/tom2.png");
+}
+.h{
+    background-image: url("images/tom3.png");
+}
+
+
+
