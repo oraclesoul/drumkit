@@ -1,5 +1,3 @@
-alert("Java script is working");
-
 for (var i = 0; i < document.querySelectorAll(".drum").length; i++) 
 {   
    
